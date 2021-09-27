@@ -1,0 +1,17 @@
+Para o resource
+
+//// import boto3 ////
+
+//// dynamodb = boto3.resource('dynamodb') ////
+//// table = dynamodb.Table('name') ////
+
+delete()
+delete_item()
+get_item()
+load()
+put_item()
+query()
+reload()
+scan()
+update()
+update_item()
